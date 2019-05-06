@@ -1,0 +1,9 @@
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Models\obj\Debug\GOT.Models.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Models\obj\Debug\GOT.Models.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Models\bin\Debug\GOT.Models.dll
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Models\bin\Debug\GOT.Models.pdb
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Models\obj\Debug\GOT.Models.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Models\obj\Debug\GOT.Models.dll
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Models\obj\Debug\GOT.Models.pdb

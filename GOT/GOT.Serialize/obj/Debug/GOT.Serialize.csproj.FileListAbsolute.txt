@@ -1,0 +1,11 @@
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\obj\Debug\GOT.Serialize.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\bin\Debug\GOT.Serialize.dll
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\bin\Debug\GOT.Serialize.pdb
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\bin\Debug\GOT.Models.dll
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\bin\Debug\Newtonsoft.Json.dll
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\bin\Debug\GOT.Models.pdb
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\bin\Debug\Newtonsoft.Json.xml
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\obj\Debug\GOT.Serialize.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\obj\Debug\GOT.Serialize.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\obj\Debug\GOT.Serialize.dll
+C:\Users\МукушевА.CORP\source\repos\GOT\GOT.Serialize\obj\Debug\GOT.Serialize.pdb
